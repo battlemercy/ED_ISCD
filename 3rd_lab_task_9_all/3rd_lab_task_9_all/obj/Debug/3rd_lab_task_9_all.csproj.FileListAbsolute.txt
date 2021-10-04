@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_9_all\3rd_lab_task_9_all\bin\Debug\3rd_lab_task_9_all.exe.config
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_9_all\3rd_lab_task_9_all\bin\Debug\3rd_lab_task_9_all.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_9_all\3rd_lab_task_9_all\bin\Debug\3rd_lab_task_9_all.pdb
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_9_all\3rd_lab_task_9_all\obj\Debug\3rd_lab_task_9_all.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_9_all\3rd_lab_task_9_all\obj\Debug\3rd_lab_task_9_all.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_9_all\3rd_lab_task_9_all\obj\Debug\3rd_lab_task_9_all.pdb
