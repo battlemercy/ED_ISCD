@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\waterpool\waterpool\bin\Debug\waterpool.exe.config
+D:\Практические работы по РКИС\УП№1\waterpool\waterpool\bin\Debug\waterpool.exe
+D:\Практические работы по РКИС\УП№1\waterpool\waterpool\bin\Debug\waterpool.pdb
+D:\Практические работы по РКИС\УП№1\waterpool\waterpool\obj\Debug\waterpool.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\waterpool\waterpool\obj\Debug\waterpool.exe
+D:\Практические работы по РКИС\УП№1\waterpool\waterpool\obj\Debug\waterpool.pdb

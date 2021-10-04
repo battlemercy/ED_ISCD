@@ -1,0 +1,5 @@
+D:\Практические работы по РКИС\УП№1\turn_of_the_king\turn_of_the_king\bin\Debug\turn_of_the_king.exe.config
+D:\Практические работы по РКИС\УП№1\turn_of_the_king\turn_of_the_king\bin\Debug\turn_of_the_king.exe
+D:\Практические работы по РКИС\УП№1\turn_of_the_king\turn_of_the_king\bin\Debug\turn_of_the_king.pdb
+D:\Практические работы по РКИС\УП№1\turn_of_the_king\turn_of_the_king\obj\Debug\turn_of_the_king.exe
+D:\Практические работы по РКИС\УП№1\turn_of_the_king\turn_of_the_king\obj\Debug\turn_of_the_king.pdb

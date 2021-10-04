@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\visokosnii_god\visokosnii_god\bin\Debug\visokosnii_god.exe.config
+D:\Практические работы по РКИС\УП№1\visokosnii_god\visokosnii_god\bin\Debug\visokosnii_god.exe
+D:\Практические работы по РКИС\УП№1\visokosnii_god\visokosnii_god\bin\Debug\visokosnii_god.pdb
+D:\Практические работы по РКИС\УП№1\visokosnii_god\visokosnii_god\obj\Debug\visokosnii_god.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\visokosnii_god\visokosnii_god\obj\Debug\visokosnii_god.exe
+D:\Практические работы по РКИС\УП№1\visokosnii_god\visokosnii_god\obj\Debug\visokosnii_god.pdb
