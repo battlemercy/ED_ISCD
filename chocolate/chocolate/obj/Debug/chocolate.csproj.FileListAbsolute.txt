@@ -1,0 +1,5 @@
+D:\Практические работы по РКИС\УП№1\chocolate\chocolate\bin\Debug\chocolate.exe.config
+D:\Практические работы по РКИС\УП№1\chocolate\chocolate\bin\Debug\chocolate.exe
+D:\Практические работы по РКИС\УП№1\chocolate\chocolate\bin\Debug\chocolate.pdb
+D:\Практические работы по РКИС\УП№1\chocolate\chocolate\obj\Debug\chocolate.exe
+D:\Практические работы по РКИС\УП№1\chocolate\chocolate\obj\Debug\chocolate.pdb

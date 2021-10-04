@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\naimenjshee\naimenjshee\bin\Debug\naimenjshee.exe.config
+D:\Практические работы по РКИС\УП№1\naimenjshee\naimenjshee\bin\Debug\naimenjshee.exe
+D:\Практические работы по РКИС\УП№1\naimenjshee\naimenjshee\bin\Debug\naimenjshee.pdb
+D:\Практические работы по РКИС\УП№1\naimenjshee\naimenjshee\obj\Debug\naimenjshee.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\naimenjshee\naimenjshee\obj\Debug\naimenjshee.exe
+D:\Практические работы по РКИС\УП№1\naimenjshee\naimenjshee\obj\Debug\naimenjshee.pdb

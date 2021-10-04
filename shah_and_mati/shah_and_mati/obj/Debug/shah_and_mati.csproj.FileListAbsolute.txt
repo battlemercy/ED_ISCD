@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\shah_and_mati\shah_and_mati\bin\Debug\shah_and_mati.exe.config
+D:\Практические работы по РКИС\УП№1\shah_and_mati\shah_and_mati\bin\Debug\shah_and_mati.exe
+D:\Практические работы по РКИС\УП№1\shah_and_mati\shah_and_mati\bin\Debug\shah_and_mati.pdb
+D:\Практические работы по РКИС\УП№1\shah_and_mati\shah_and_mati\obj\Debug\shah_and_mati.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\shah_and_mati\shah_and_mati\obj\Debug\shah_and_mati.exe
+D:\Практические работы по РКИС\УП№1\shah_and_mati\shah_and_mati\obj\Debug\shah_and_mati.pdb

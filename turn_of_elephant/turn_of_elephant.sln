@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turn_of_elephant", "turn_of_elephant\turn_of_elephant.csproj", "{72E3BD75-5322-4F9A-B50E-A7BDB0E7D52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72E3BD75-5322-4F9A-B50E-A7BDB0E7D52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72E3BD75-5322-4F9A-B50E-A7BDB0E7D52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72E3BD75-5322-4F9A-B50E-A7BDB0E7D52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72E3BD75-5322-4F9A-B50E-A7BDB0E7D52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7100096-A5BE-4160-B7B2-AAE510656ADC}
+	EndGlobalSection
+EndGlobal

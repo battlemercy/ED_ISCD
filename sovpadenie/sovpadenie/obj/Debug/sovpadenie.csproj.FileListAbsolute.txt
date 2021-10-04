@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\sovpadenie\sovpadenie\bin\Debug\sovpadenie.exe.config
+D:\Практические работы по РКИС\УП№1\sovpadenie\sovpadenie\bin\Debug\sovpadenie.exe
+D:\Практические работы по РКИС\УП№1\sovpadenie\sovpadenie\bin\Debug\sovpadenie.pdb
+D:\Практические работы по РКИС\УП№1\sovpadenie\sovpadenie\obj\Debug\sovpadenie.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\sovpadenie\sovpadenie\obj\Debug\sovpadenie.exe
+D:\Практические работы по РКИС\УП№1\sovpadenie\sovpadenie\obj\Debug\sovpadenie.pdb

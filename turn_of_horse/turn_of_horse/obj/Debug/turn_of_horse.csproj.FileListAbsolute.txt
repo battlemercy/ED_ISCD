@@ -1,0 +1,6 @@
+D:\Практические работы по РКИС\УП№1\turn_of_horse\turn_of_horse\bin\Debug\turn_of_horse.exe.config
+D:\Практические работы по РКИС\УП№1\turn_of_horse\turn_of_horse\bin\Debug\turn_of_horse.exe
+D:\Практические работы по РКИС\УП№1\turn_of_horse\turn_of_horse\bin\Debug\turn_of_horse.pdb
+D:\Практические работы по РКИС\УП№1\turn_of_horse\turn_of_horse\obj\Debug\turn_of_horse.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\turn_of_horse\turn_of_horse\obj\Debug\turn_of_horse.exe
+D:\Практические работы по РКИС\УП№1\turn_of_horse\turn_of_horse\obj\Debug\turn_of_horse.pdb

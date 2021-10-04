@@ -1,0 +1,5 @@
+D:\Практические работы по РКИС\УП№1\turn_of_elephant\turn_of_elephant\bin\Debug\turn_of_elephant.exe.config
+D:\Практические работы по РКИС\УП№1\turn_of_elephant\turn_of_elephant\bin\Debug\turn_of_elephant.exe
+D:\Практические работы по РКИС\УП№1\turn_of_elephant\turn_of_elephant\bin\Debug\turn_of_elephant.pdb
+D:\Практические работы по РКИС\УП№1\turn_of_elephant\turn_of_elephant\obj\Debug\turn_of_elephant.exe
+D:\Практические работы по РКИС\УП№1\turn_of_elephant\turn_of_elephant\obj\Debug\turn_of_elephant.pdb
