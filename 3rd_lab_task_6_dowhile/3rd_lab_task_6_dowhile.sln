@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3rd_lab_task_6_dowhile", "3rd_lab_task_6_dowhile\3rd_lab_task_6_dowhile.csproj", "{9C02BE41-AC63-4423-9B1F-14177A025461}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C02BE41-AC63-4423-9B1F-14177A025461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C02BE41-AC63-4423-9B1F-14177A025461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C02BE41-AC63-4423-9B1F-14177A025461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C02BE41-AC63-4423-9B1F-14177A025461}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DAE10708-2972-43CA-B8F4-DA1618C32572}
+	EndGlobalSection
+EndGlobal
