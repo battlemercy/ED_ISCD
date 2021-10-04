@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "first_lab_rebirth", "first_lab_rebirth\first_lab_rebirth.csproj", "{F36AA01D-1AD0-4BCB-8B37-6ABA34097F68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F36AA01D-1AD0-4BCB-8B37-6ABA34097F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F36AA01D-1AD0-4BCB-8B37-6ABA34097F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F36AA01D-1AD0-4BCB-8B37-6ABA34097F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F36AA01D-1AD0-4BCB-8B37-6ABA34097F68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA7A45C3-2A43-4C4C-ABA3-37C8F3D0EFDD}
+	EndGlobalSection
+EndGlobal

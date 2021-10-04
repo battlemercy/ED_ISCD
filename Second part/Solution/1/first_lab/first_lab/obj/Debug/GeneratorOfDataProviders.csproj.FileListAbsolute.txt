@@ -1,0 +1,18 @@
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\bin\Debug\Database1.mdf
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\bin\Debug\Database1_log.ldf
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\bin\Debug\first_lab.exe.config
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\bin\Debug\first_lab.exe
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\bin\Debug\first_lab.pdb
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\obj\Debug\GeneratorOfDataProviders.csprojAssemblyReference.cache
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\obj\Debug\GeneratorOfDataProviders.csproj.CoreCompileInputs.cache
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\obj\Debug\first_lab.exe
+Z:\Разработка Кода Информационных Систем (1-ый курс 2-ой семестр - ЗАЩИТА!)\Учебные практики\1-ый курс 2-ой семестр (3 дня)\Решения\1\first_lab\first_lab\obj\Debug\first_lab.pdb
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\bin\Debug\Database1.mdf
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\bin\Debug\Database1_log.ldf
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\bin\Debug\first_lab.exe.config
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\bin\Debug\first_lab.exe
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\bin\Debug\first_lab.pdb
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\obj\Debug\GeneratorOfDataProviders.csprojAssemblyReference.cache
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\obj\Debug\GeneratorOfDataProviders.csproj.CoreCompileInputs.cache
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\obj\Debug\first_lab.exe
+Z:\Coding_Pavlov\educational_practice\Second\Solution\1\first_lab\first_lab\obj\Debug\first_lab.pdb
