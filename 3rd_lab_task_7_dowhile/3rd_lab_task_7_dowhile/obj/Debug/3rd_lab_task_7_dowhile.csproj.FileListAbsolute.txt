@@ -1,0 +1,7 @@
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\obj\Debug\3rd_lab_task_7_dowhile.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\obj\Debug\3rd_lab_task_7_dowhile.csproj.CoreCompileInputs.cache
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\bin\Debug\3rd_lab_task_7_dowhile.exe.config
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\bin\Debug\3rd_lab_task_7_dowhile.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\bin\Debug\3rd_lab_task_7_dowhile.pdb
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\obj\Debug\3rd_lab_task_7_dowhile.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_dowhile\3rd_lab_task_7_dowhile\obj\Debug\3rd_lab_task_7_dowhile.pdb

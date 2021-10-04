@@ -1,0 +1,5 @@
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_all\3rd_lab_task_7_all\bin\Debug\3rd_lab_task_7_all.exe.config
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_all\3rd_lab_task_7_all\bin\Debug\3rd_lab_task_7_all.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_all\3rd_lab_task_7_all\bin\Debug\3rd_lab_task_7_all.pdb
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_all\3rd_lab_task_7_all\obj\Debug\3rd_lab_task_7_all.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_7_all\3rd_lab_task_7_all\obj\Debug\3rd_lab_task_7_all.pdb
