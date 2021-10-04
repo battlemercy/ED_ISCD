@@ -1,0 +1,7 @@
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\bin\Debug\2nd_lab_task_5.exe.config
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\bin\Debug\2nd_lab_task_5.exe
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\bin\Debug\2nd_lab_task_5.pdb
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\obj\Debug\2nd_lab_task_5.csprojAssemblyReference.cache
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\obj\Debug\2nd_lab_task_5.csproj.CoreCompileInputs.cache
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\obj\Debug\2nd_lab_task_5.exe
+C:\Users\gr691_msi\source\repos\2nd_lab_task_5\2nd_lab_task_5\obj\Debug\2nd_lab_task_5.pdb
