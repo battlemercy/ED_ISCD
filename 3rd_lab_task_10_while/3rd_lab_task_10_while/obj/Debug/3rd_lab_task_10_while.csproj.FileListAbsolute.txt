@@ -1,0 +1,7 @@
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\bin\Debug\3rd_lab_task_10_while.exe.config
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\bin\Debug\3rd_lab_task_10_while.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\bin\Debug\3rd_lab_task_10_while.pdb
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\obj\Debug\3rd_lab_task_10_while.csprojAssemblyReference.cache
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\obj\Debug\3rd_lab_task_10_while.csproj.CoreCompileInputs.cache
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\obj\Debug\3rd_lab_task_10_while.exe
+D:\Практические работы по РКИС\УП№1\3rd_lab_task_10_while\3rd_lab_task_10_while\obj\Debug\3rd_lab_task_10_while.pdb
