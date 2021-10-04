@@ -1,0 +1,7 @@
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\bin\Debug\2nd_lab_task_1.exe.config
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\bin\Debug\2nd_lab_task_1.exe
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\bin\Debug\2nd_lab_task_1.pdb
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\obj\Debug\2nd_lab_task_1.csprojAssemblyReference.cache
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\obj\Debug\2nd_lab_task_1.csproj.CoreCompileInputs.cache
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\obj\Debug\2nd_lab_task_1.exe
+Z:\Практические работы по РКИС\УП№1\2nd_lab_task_1\2nd_lab_task_1\obj\Debug\2nd_lab_task_1.pdb
